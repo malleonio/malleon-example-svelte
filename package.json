@@ -1,0 +1,19 @@
+{
+  "name": "malleon-example-svelte",
+  "version": "1.0.0",
+  "description": "Example Svelte application demonstrating Malleon Replay SDK integration",
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^2.5.3",
+    "svelte": "^4.2.7",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.8"
+  }
+}
